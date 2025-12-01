@@ -10,6 +10,6 @@ console.log(employees[0]);
 for(const emp of employees){
     const person =emp;
     const personInfo = person.Name+ " " + ":" + " " +person.designation;
-    console.log(personInfo); 
+    console.log(personInfo);
 }
 
