@@ -42,3 +42,4 @@ for(const pro of arr ){
 copy_arr[0]=99;
 console.log(copy_arr);
 
+
